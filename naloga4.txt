@@ -1,0 +1,17 @@
+diff --git a/index.html b/index.html
+index 566549b..c40d044 100644
+--- a/index.html
++++ b/index.html
+@@ -2,9 +2,9 @@
+ <html lang="en">
+ <head>
+     <meta charset="UTF-8">
+-    <title>Title</title>
++    <title>Naslov</title>
+ </head>
+ <body>
+ 
+ </body>
+-</html>
+\ No newline at end of file
++</html>
